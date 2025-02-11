@@ -6,7 +6,7 @@ Traffic sign recognition is a challenging, real-world problem relevant for AI ba
     <p><em>Traffic Signs.</em></p>
 </div>
 
-Dataset
+## Dataset
 
 The data for this mini-project is from the German Traffic Sign Detection Benchmark GTSDB. This archive contains the training set used during the IJCNN 2013 competition.
 
