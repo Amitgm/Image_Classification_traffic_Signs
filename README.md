@@ -19,3 +19,7 @@ A file in CSV format with the ground truth
 A ReadMe.txt with more details.
 Note that we will be using the images inside the image sections subfolders, containing only the traffic signs.
 
+## Problem Statement
+
+To build and improve upon a machine learning model for the classification of images and achieve a high accuracy final model.
+
