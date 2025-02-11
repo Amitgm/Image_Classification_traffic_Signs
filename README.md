@@ -5,7 +5,7 @@ Traffic sign recognition is a challenging, real-world problem relevant for AI ba
 ### <div align="center"> **3d plot clustering of K-means and DBSCAN** </div>
 
 <div align="center">
-    <img src="./images/traffic signs.png" alt="Clustering Results" width="500">
+    <img src="./images/traffic signs.jpg" alt="Clustering Results" width="500">
     <p><em>Figure 1: Clustering results using K-Means.</em></p>
 </div>
 
